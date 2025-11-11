@@ -92,7 +92,7 @@ Abaixo está o passo a passo completo para cada caso:
 
 4. Em seguida, execute os notebooks de **uso e análise dos modelos treinados**:
 
-   * [Usando_Modelo_Treinado_Decision_Tree_Desbalanceado.ipynb](notebooks/uso_modelos/Usando_Modelo_Treinado_Decision_Tree_Desbalanceado.ipynb)
+   * [Usando_Modelo_Treinado_Decision_Tree_desbalanceado.ipynb](notebooks/uso_modelos/Usando_Modelo_Treinado_Decision_Tree_Desbalanceado.ipynb)
    * [Usando_Modelo_Treinado_Random_Forest_Desbalanceado.ipynb](notebooks/uso_modelos/Usando_Modelo_Treinado_Random_Forest_Desbalanceado.ipynb)
 
 ---
@@ -101,7 +101,7 @@ Abaixo está o passo a passo completo para cada caso:
 
 1. Antes de treinar qualquer modelo balanceado, execute o notebook responsável por criar o dataset balanceado:
 
-   * [Dataset_balanceado_com_undersampling.ipynb](notebooks/dataset/Dataset_balanceado_com_undersampling.ipynb)
+   * [Dataset_balanceado_com_undersampling.ipynb](notebooks/dataset_balanceado/Dataset_balanceado_com_undersampling.ipynb)
 
    Esse notebook aplica a técnica de **undersampling**, gerando um novo dataset equilibrado e salvo no Google Drive.
 
