@@ -92,7 +92,7 @@ Abaixo está o passo a passo completo para cada caso:
 
 4. Em seguida, execute os notebooks de **uso e análise dos modelos treinados**:
 
-   * [Usando_Modelo_Treinado_Decision_Tree_desbalanceado.ipynb](notebooks/uso_modelos/Usando_Modelo_Treinado_Decision_Tree_desbalanceado.ipynb)
+   * [Usando_Modelo_Treinado_Decision_Tree_Desbalanceado.ipynb](notebooks/uso_modelos/Usando_Modelo_Treinado_Decision_Tree_Desbalanceado.ipynb)
    * [Usando_Modelo_Treinado_Random_Forest_Desbalanceado.ipynb](notebooks/uso_modelos/Usando_Modelo_Treinado_Random_Forest_Desbalanceado.ipynb)
 
 ---
